@@ -6,7 +6,7 @@ After several years the SD card failed in my hub.
 On investigation I discovered that the board is based on the imx233 chip smsc9500 usb ethernet.
 It is largely similar to the Olimex olinuxino
 https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-MAXI/open-source-hardware
-lock Mode.
+
 Steps to repair:
 
 1) Connect to serial console.
